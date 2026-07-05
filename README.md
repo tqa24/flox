@@ -1,3 +1,13 @@
+# Project Archived
+
+Flox was a fun and useful project when I originally built it, but it has not been actively developed or maintained for a long time.
+
+Since then, the tooling around web development has changed a lot. With modern frameworks and AI-assisted development, it is now much easier to create cleaner, more flexible, and more polished applications for this kind of use case.
+
+Because of that, I do not plan to continue maintaining Flox and have archived this repository.
+
+Thank you to everyone who supported the project, opened issues, contributed code, or simply used it.
+
 Flox
 ===============
 [![Build Status](https://travis-ci.org/devfake/flox.svg?branch=master)](https://travis-ci.org/devfake/flox)
